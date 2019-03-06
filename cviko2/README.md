@@ -17,4 +17,7 @@
 ## Bonusová úloha
 K obrázku vytvorte popis a vyskúšajte ho umiestniť nad,pod, vedľa a do obrázka
 
+## Výstup
+![alt text](./output.png "Logo Title Text 1")
+
 
